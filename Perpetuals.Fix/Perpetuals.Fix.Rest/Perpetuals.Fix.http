@@ -1,0 +1,6 @@
+@Perpetuals.Fix_HostAddress = http://localhost:5171
+
+GET {{Perpetuals.Fix_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
